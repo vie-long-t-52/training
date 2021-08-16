@@ -10,6 +10,7 @@ void perfect(int n){
 }
 
 int main(){
+	// da chinh sua cai nay
     int n, i;
     printf("Input n = ");
     scanf("%d", &n);
