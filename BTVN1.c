@@ -11,6 +11,7 @@ void perfect(int n){
 
 int main(){
 	// da chinh sua cai nay
+	// update code them ty nua
     int n, i;
     printf("Input n = ");
     scanf("%d", &n);
